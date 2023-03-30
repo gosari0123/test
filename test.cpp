@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
     cout << "테스트 코드" << endl;
+    cout << "gosari0123 테스트 코드 추가(1)" << endl;
 
     return 0;
 }
